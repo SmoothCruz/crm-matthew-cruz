@@ -135,7 +135,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T17:58:09.196Z"
+    },
+    {
+      "id": "mpmxzat5iw4s6ugmp3",
+      "name": "Betty Louis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eshop1117",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "Found in Trading Academy",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T18:01:38.681Z"
     }
   ],
-  "lastUpdated": "2026-05-26T17:58:09.196Z"
+  "lastUpdated": "2026-05-26T18:01:38.681Z"
 }
