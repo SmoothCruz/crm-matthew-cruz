@@ -220,7 +220,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T18:05:34.955Z"
+    },
+    {
+      "id": "mpmy7wkl1od0axddnq1h",
+      "name": "George leopard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61565884391386",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "Found in Trading Academy",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T18:08:20.133Z"
     }
   ],
-  "lastUpdated": "2026-05-26T18:05:34.955Z"
+  "lastUpdated": "2026-05-26T18:08:20.133Z"
 }
