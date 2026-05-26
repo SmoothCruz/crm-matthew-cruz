@@ -1,0 +1,39 @@
+{
+  "leads": [
+    {
+      "id": "mpmwfcyesegwaoh63u",
+      "name": "Regina Tucker ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61562782514685",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "Found in Trading Academy",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T17:18:08.726Z"
+    },
+    {
+      "id": "mpmx4knt029rej5ewvvt",
+      "name": "Michael Hawthorne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mhawthorne64",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "Met at Real Estate event, found in Trading Academy",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T17:37:45.113Z"
+    }
+  ],
+  "lastUpdated": "2026-05-26T17:37:45.113Z"
+}
