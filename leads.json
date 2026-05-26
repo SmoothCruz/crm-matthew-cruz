@@ -67,7 +67,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T17:45:16.203Z"
+    },
+    {
+      "id": "mpmxg74qba7epdmtf6o",
+      "name": "Jennifer Cox Homes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JenniferCoxHomes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "Found on Trading Academy",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T17:46:47.450Z"
     }
   ],
-  "lastUpdated": "2026-05-26T17:45:53.316Z"
+  "lastUpdated": "2026-05-26T17:46:47.450Z"
 }
