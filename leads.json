@@ -36,7 +36,7 @@
     },
     {
       "id": "mpmx64n4ay6yl1glduh",
-      "name": "Andréa Klass",
+      "name": "AndrÃ©a Klass",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/andrea.klass1",
@@ -50,7 +50,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T17:38:57.664Z"
+    },
+    {
+      "id": "mpmxe8q377y1ynmvfll",
+      "name": "Courtney Rasmussen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/courterasmussen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "Friends on FB, Found on Trading Academy",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T17:45:16.203Z"
     }
   ],
-  "lastUpdated": "2026-05-26T17:38:57.664Z"
+  "lastUpdated": "2026-05-26T17:45:16.204Z"
 }
