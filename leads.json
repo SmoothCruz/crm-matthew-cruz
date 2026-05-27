@@ -279,9 +279,9 @@
       "phone": "",
       "social": "https://www.facebook.com/garcia18927?mibextid=ZbWKwL",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "temperature": "Hot",
-      "lastAction": "Closed",
+      "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
       "nextFollowUp": "2026-05-31",
       "notes": "Waiting for funds",
@@ -290,5 +290,5 @@
       "addedAt": "2026-05-27T01:23:29.034Z"
     }
   ],
-  "lastUpdated": "2026-05-27T01:23:29.034Z"
+  "lastUpdated": "2026-05-27T01:38:03.232Z"
 }
