@@ -19,7 +19,7 @@
     },
     {
       "id": "mpmx64n4ay6yl1glduh",
-      "name": "Andréa Klass",
+      "name": "Andrea Klass",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/andrea.klass1",
@@ -30,9 +30,10 @@
       "lastContact": "2026-05-26",
       "nextFollowUp": "2026-05-28",
       "notes": "Friend on FB, Found on Trading Academy",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:38:57.664Z"
+      "addedAt": "2026-05-26T17:38:57.664Z",
+      "videoSent": false
     },
     {
       "id": "mpmxe8q377y1ynmvfll",
@@ -273,5 +274,5 @@
       "addedAt": "2026-05-27T01:23:29.034Z"
     }
   ],
-  "lastUpdated": "2026-05-27T20:05:35.863Z"
+  "lastUpdated": "2026-05-28T04:22:17.786Z"
 }
