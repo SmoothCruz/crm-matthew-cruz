@@ -1,40 +1,6 @@
 {
   "leads": [
     {
-      "id": "mpmxqqbiuk6llqbuvwa",
-      "name": "Aura Vasquez",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/Auravasquezofficial",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "Found on Trading Academy",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:54:58.878Z"
-    },
-    {
-      "id": "mpmxut64etd014gtl4d",
-      "name": "Amir Awad",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/amirawadmusic",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "Found on Trading Academy",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:58:09.196Z"
-    },
-    {
       "id": "mpmxzat5iw4s6ugmp3",
       "name": "Betty Louis",
       "email": "",
@@ -103,5 +69,5 @@
       "addedAt": "2026-05-26T18:04:49.825Z"
     }
   ],
-  "lastUpdated": "2026-07-08T04:55:48.925Z"
+  "lastUpdated": "2026-07-08T04:55:53.141Z"
 }
