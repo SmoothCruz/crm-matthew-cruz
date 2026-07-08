@@ -1,23 +1,6 @@
 {
   "leads": [
     {
-      "id": "mpmx4knt029rej5ewvvt",
-      "name": "Michael Hawthorne",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/mhawthorne64",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "Met at Real Estate event, found in Trading Academy",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:37:45.113Z"
-    },
-    {
       "id": "mpmx64n4ay6yl1glduh",
       "name": "Andrea Klass",
       "email": "",
@@ -187,24 +170,7 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T18:04:49.825Z"
-    },
-    {
-      "id": "mpmy4d4bv0gw3bqmhb",
-      "name": "Chelsea Nielsen",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/therevivedmama",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "Found in Trading Academy",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T18:05:34.955Z"
     }
   ],
-  "lastUpdated": "2026-07-08T04:55:27.188Z"
+  "lastUpdated": "2026-07-08T04:55:38.789Z"
 }
