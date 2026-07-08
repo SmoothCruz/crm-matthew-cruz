@@ -1,23 +1,6 @@
 {
   "leads": [
     {
-      "id": "mpmxe8q377y1ynmvfll",
-      "name": "Courtney Rasmussen",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/courterasmussen",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "Friends on FB, Found on Trading Academy",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:45:16.203Z"
-    },
-    {
       "id": "mpmxg74qba7epdmtf6o",
       "name": "Jennifer Cox Homes",
       "email": "",
@@ -154,5 +137,5 @@
       "addedAt": "2026-05-26T18:04:49.825Z"
     }
   ],
-  "lastUpdated": "2026-07-08T04:55:41.325Z"
+  "lastUpdated": "2026-07-08T04:55:43.349Z"
 }
