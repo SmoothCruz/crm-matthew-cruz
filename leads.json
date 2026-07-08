@@ -1,24 +1,6 @@
 {
   "leads": [
     {
-      "id": "mpmx64n4ay6yl1glduh",
-      "name": "Andrea Klass",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/andrea.klass1",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "Friend on FB, Found on Trading Academy",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T17:38:57.664Z",
-      "videoSent": false
-    },
-    {
       "id": "mpmxe8q377y1ynmvfll",
       "name": "Courtney Rasmussen",
       "email": "",
@@ -172,5 +154,5 @@
       "addedAt": "2026-05-26T18:04:49.825Z"
     }
   ],
-  "lastUpdated": "2026-07-08T04:55:38.789Z"
+  "lastUpdated": "2026-07-08T04:55:41.325Z"
 }
